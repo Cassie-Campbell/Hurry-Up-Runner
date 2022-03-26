@@ -1,18 +1,7 @@
 ![image](img/embed-bg.png?raw=true)
 
-# "Hurry up!" the runner game
+# "Hurry up Runner!" The Tunner Game
 
-"Hurry up!" is a small funny game made with Phaser 3. You can try it [here](https://voiceless-coder.itch.io/hurry-up)
+"Hurry up!" Is A Small Funny Game Made With Phaser 3.
 
-This game is about ordinary salaryman that hurries for his job. There are several types of traps and only one control to guide the man to finish. It is just a small project for practicing, that's why there are only three levels, but they are difficult enough if you want to pass them perfectly, i.e. get three stars.
-
-# Credits
-
-The game was made with [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser).
-
-Lots of assets was created by [marinovboris](https://github.com/marinovboris):
-
-* sprites for player and walkers
-* decorations (trees, bushes, road signs, kiosks, etc.)
-* UI (buttons, title banner)
-* music and sounds
+This Game Is About Ordinary Salaryman That Hurries For His Job. There Are Several Types Of Traps And Only One Control To Guide The Man To Finish. It Is Just A Small Project For Practicing, That's Why There Are Only Three levels, But They Are Difficult Enough If You Want To Pass Them Perfectly, i.e. Get Three Stars.
